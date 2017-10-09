@@ -1,0 +1,22 @@
+[
+  {
+    "file": "css/index.css",
+    "hash": "e46d9a1c456a9c913ca10f3c16d50000"
+  },
+  {
+    "file": "img/logo_old.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "26e8fccc6a956cf99ee8226a5aaeb2eb"
+  },
+  {
+    "file": "index.html",
+    "hash": "a53d2cd9198f87db1d19bf62d7150291"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "b029a41d2a0c3a2b9bc821069828dae6"
+  }
+]
